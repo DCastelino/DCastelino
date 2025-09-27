@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Dave]
+# Hi there! 👋 I'm Dave
 
 ## 🚀 Senior Software Engineer | FinTech Specialist | .NET Developer | AI Enthusiast
 
