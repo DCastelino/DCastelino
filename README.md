@@ -51,7 +51,7 @@ Welcome to my GitHub! I'm a passionate software engineer with expertise in build
 - Contributing to open-source AI and FinTech projects
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DCastelino&show_icons=true&theme=dark)
 
 ### 🤝 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/david-castelino)
